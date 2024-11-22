@@ -6,7 +6,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-<h2> / about me /</h2>
+<h2> / what I am doing right now /</h2>
   
 <a href="https://zamm346.me/" >
    <img src="https://lanyard.kyrie25.me/api/536523160091099156?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
